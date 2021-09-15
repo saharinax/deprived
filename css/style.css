@@ -3412,6 +3412,7 @@ input[type="submit"].btn-block, input[type="reset"].btn-block, input[type="butto
   -ms-flex-pack: justify;
   justify-content: space-between;
   padding: 0.5rem 1rem;
+  font-family: 'Major Mono Display', monospace;
 }
 .navbar > .container, .navbar > .container-fluid {
   display: -webkit-box;
